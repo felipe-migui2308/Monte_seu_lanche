@@ -57,7 +57,7 @@
    Em seguida, inicie o servidor:
 
    ```bash
-  npm run backend
+   npm run backend
    ```
 
 4. **Inicie a aplicação Vue:**
@@ -66,7 +66,10 @@
 
    ```bash
    npm run serve
-   ``
+   ```
+
+   A aplicação estará disponível em: `http://localhost:8082`
+
 ---
 
 ## 📁 Estrutura do Projeto
@@ -93,8 +96,7 @@ Monte_seu_lanche/
 
 ## 📸 Demonstração
 
-![Captura de tela 2025-05-05 220414](https://github.com/user-attachments/assets/69dbb296-7b90-4e7a-9330-fa742c951daa)
-
+![alt text](<Captura de tela 2025-05-05 220414.png>)
 
 ---
 
