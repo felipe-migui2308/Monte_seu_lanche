@@ -1,0 +1,227 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Brioche"
+      },
+      {
+        "id": 6,
+        "tipo": "Comum"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Costela"
+      },
+      {
+        "id": 6,
+        "tipo": "Lombo"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Presunto"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 5,
+        "tipo": "barbecue"
+      },
+      {
+        "id": 6,
+        "tipo": "Cebola Caramelizada"
+      },
+      {
+        "id": 7,
+        "tipo": "Requeijão Empanado"
+      },
+      {
+        "id": 8,
+        "tipo": "Rucula"
+      },
+      {
+        "id": 9,
+        "tipo": "Alface"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "e82b",
+      "nome": "carlos",
+      "carne": "Costela",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino",
+        "Cebola Caramelizada",
+        "Rucula",
+        "Requeijão Empanado"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "d1b5",
+      "nome": "jose ivaldo",
+      "carne": "Veggie burger",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Presunto",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "c3a2",
+      "nome": "Miguel pereira de almeida júnior",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Presunto",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "b299",
+      "nome": "luiz felipe miguel custodio",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Presunto",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "2f18",
+      "nome": "luiz felipe miguel custodio",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Alface",
+        "Requeijão Empanado",
+        "barbecue"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "7b34",
+      "nome": "junior",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Presunto",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "5f67",
+      "nome": "jose ivaldo",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "47dc",
+      "nome": "Miguel pereira de almeida júnior",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Presunto"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "bea6",
+      "nome": "noe",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Presunto"
+      ],
+      "status": "Solicitado"
+    }
+  ]
+}
