@@ -96,7 +96,8 @@ Monte_seu_lanche/
 
 ## 📸 Demonstração
 
-![alt text](<Captura de tela 2025-05-05 220414.png>)
+![Monte seu lanche](https://github.com/felipe-migui2308/Monte_seu_lanche/blob/main/monte_seu_lanche.png?raw=true)
+
 
 ---
 
